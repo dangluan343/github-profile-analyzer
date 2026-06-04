@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[44439,["/_next/static/chunks/20n2r9s27_p06.js","/_next/static/chunks/3s2t4_2jf5hjt.js","/_next/static/chunks/256whwvw_y7jv.js","/_next/static/chunks/0qty4cei226y0.js"],"default"]
+4:I[97367,["/_next/static/chunks/20n2r9s27_p06.js","/_next/static/chunks/3s2t4_2jf5hjt.js","/_next/static/chunks/256whwvw_y7jv.js"],"OutletBoundary"]
+0:{"rsc":["$","$1","c",{"children":[["$","$2",null,{"fallback":["$","div",null,{"className":"flex-1 flex flex-col items-center justify-center p-8 bg-neutral-50 dark:bg-neutral-950 min-h-screen","children":[["$","div",null,{"className":"animate-spin rounded-full h-10 w-10 border-4 border-indigo-200 border-t-indigo-600 dark:border-indigo-950 dark:border-t-indigo-500"}],["$","p",null,{"className":"mt-4 text-sm font-semibold text-neutral-400 dark:text-neutral-500 animate-pulse","children":"Loading Analyzer Dashboard..."}]]}],"children":["$","$L3",null,{}]}],[["$","script","script-0",{"src":"/_next/static/chunks/0qty4cei226y0.js","async":true}]],["$","$L4",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"pPwDQ73OdRV1owXDVlyqC"}
+5:null
